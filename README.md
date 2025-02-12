@@ -1,16 +1,12 @@
-## Hi there 👋
+👋 Hi, I'm Prohita!
 
-<!--
-**prohitak/prohitak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Business Analyst | Data Scientist | Machine Learning Enthusiast<br/>
+📊 Passionate about transforming data into actionable insights.<br/>
+📍 Currently based in the U.S. | Open to collaboration and learning.<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 About Me<br/> 
+🎓 Graduate in Business Analytics from Midwestern State University.<br/>
+💼 Business Analyst with experience in data-driven decision-making.<br/>
+🧠 Strong foundation in machine learning, data mining, and statistical analysis.<br/>
+💻 Proficient in Python, R, SAS, SQL, AWS, and data visualization tools like Matplotlib and Tableau.<br/>
+📈 Experienced in financial analysis, sentiment analysis, and strategic business insights.<br/>
